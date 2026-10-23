@@ -2,7 +2,7 @@
 
 An ultrasonic-sensor-triggered automated trash can that opens its lid when an object or hand approaches, built using an ESP32 and a servo motor.
 
-![Full Build](full-build.jpg)
+![Full Build]()
 
 ## Overview
 This project uses an ESP32 microcontroller paired with an HC-SR04 ultrasonic distance sensor to detect when someone approaches the trash can. When an object is within range, the ESP32 signals an SG90 servo motor to open the lid automatically, eliminating the need to touch the can.
