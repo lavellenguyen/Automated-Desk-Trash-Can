@@ -37,7 +37,7 @@ All components except the servo and ultrasonic sensor were assembled on a breadb
 | Soldered Wire Leads | Connects servo and sensor to the circuit |
 
 ## Code
-Full source code: [`src/trash_can.ino`](src/trash-can.ino)
+Full source code: [`src/trash_can.ino`](src/trash_can.ino)
 
 ## Demo Video
 Watch it in action: [YouTube Demo](https://youtu.be/TUjON6isAU4?si=gaxiZ4TPmCasI4MS)
